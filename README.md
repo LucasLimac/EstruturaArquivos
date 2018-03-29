@@ -12,3 +12,5 @@ O arquivo Cep Ordenado foi diminuido para 49322 linhas(registros), e os ceps dis
 Exemplos de Ceps para procurar: 93222490 , 88301210.
 
 O código foi feito com Scanner, não foi feito passando o paramentro no args da Main.
+
+Trabalho feito em parceria com Matheus Mencalha.
