@@ -10,3 +10,5 @@ Na função ele fará várias divisões e comparações de forma recursiva até 
 O arquivo Cep Ordenado foi diminuido para 49322 linhas(registros), e os ceps disponíveis para a procura são de 88301040 até 99099000. Logo se tentar buscar outro cep que não esteja neste intervalo gerará um erro. 
 
 Exemplos de Ceps para procurar: 93222490 , 88301210.
+
+O código foi feito com Scanner, não foi feito passando o paramentro no args da Main.
